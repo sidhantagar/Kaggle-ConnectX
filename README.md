@@ -3,7 +3,9 @@ In this machine learning project from kaggle, we are required to make an agent t
 
 ## This repository contains one agent:
 
-1. In the first agent I have implemented a simple minimax algorithm with a custom heuristic function and one step look-ahead. This Folder contains the agent as as a py file and a jupyter notebook with a detailed walkthrough of the intutions behind the making of the agent and the custom heuristic function.(The skill of the agent is 1069.7 at the time of writing ranking 54 on the leaderboard). You can also visit "https://www.kaggle.com/sidagar/getting-1000-score-using-only-minimax"  to view the explanation notebook over kaggle.
+1. In the first agent I have implemented a simple minimax algorithm with a custom heuristic function and one step look-ahead. This Folder contains the agent as as a py file and a jupyter notebook with a detailed walkthrough of the intutions behind the making of the agent and the custom heuristic function.(The skill of the agent is 1069.7 at the time of writing ranking 54th on the leaderboard). 
+
+   You can also visit "https://www.kaggle.com/sidagar/getting-1000-score-using-only-minimax"  to view the explanation notebook over kaggle.
 
        P.S.: I have uploaded the whole notebook in HTML format separately for reference.
        If you only want to see the notebook you can download and view the HTML version or visit the kaggle link to view it.
